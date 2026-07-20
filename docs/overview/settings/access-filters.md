@@ -49,8 +49,6 @@ An entry configured with a specific scheme, such as HTTPS, will exclusively perm
 
 ## Best Practices
 
-- Keep your API key (`project_id`) secure. Avoid placing it in client-side code, like JavaScript on a webpage or within mobile apps. Instead, route all Blockfrost requests via your server or through a proxy.
-
 - Wherever you can, use IP and Origin-based filters and enable access only to those endpoints your project truly needs.
 
 - Create a new project for each application. This lets you to tailor access filters to each application's specific needs.
