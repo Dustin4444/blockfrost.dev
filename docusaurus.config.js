@@ -45,7 +45,7 @@ module.exports = {
         },
         {
           "aria-label": "Discord",
-          to: "https://discord.gg/inputoutput",
+          to: "https://discord.gg/YfGKvqpt2d",
           position: "right",
           className: "navbar__icon navbar__discord",
         },
